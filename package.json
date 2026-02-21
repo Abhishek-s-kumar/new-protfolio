@@ -1,6 +1,7 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "portfolio",
   "private": true,
+  "homepage": "https://Abhishek-s-kumar.github.io/new-protfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
